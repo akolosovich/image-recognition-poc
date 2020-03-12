@@ -1,6 +1,6 @@
 {
    "name": "aws-rekognition-poc",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "private": true,
    "main": "src/index.js",
    "scripts": {
@@ -20,12 +20,12 @@
       "pretty-error": "2.1.1"
    },
    "dependencies": {
-      "aws-sdk": "2.437.0",
-      "lodash": "4.17.11",
-      "minimist": "^1.2.0",
+      "aws-sdk": "2.639.0",
+      "lodash": "4.17.15",
+      "minimist": "1.2.4",
       "sharp": "0.22.0"
    },
    "engines": {
-      "node": "8.15.1"
+      "node": "10.19.0"
    }
 }

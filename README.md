@@ -28,7 +28,3 @@ Create file _aws.config.json_ and put to {projectFolder}/config folder
 ```bash
 node src/aws-rekognition.js --file=$(pwd)/input/1.jpeg && open output.jpeg
 ```
-
-## PS
-
-Tested on Nodejs v8.15.1
