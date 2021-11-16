@@ -20,7 +20,7 @@
       "pretty-error": "2.1.1"
    },
    "dependencies": {
-      "aws-sdk": "2.639.0",
+      "aws-sdk": "2.814.0",
       "lodash": "4.17.19",
       "minimist": "1.2.4",
       "sharp": "0.22.0"
