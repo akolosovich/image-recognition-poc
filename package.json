@@ -22,7 +22,7 @@
    "dependencies": {
       "aws-sdk": "2.639.0",
       "lodash": "4.17.19",
-      "minimist": "1.2.4",
+      "minimist": "1.2.6",
       "sharp": "0.22.0"
    },
    "engines": {
