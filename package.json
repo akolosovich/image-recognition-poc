@@ -23,7 +23,7 @@
       "aws-sdk": "2.639.0",
       "lodash": "4.17.19",
       "minimist": "1.2.4",
-      "sharp": "0.22.0"
+      "sharp": "0.30.5"
    },
    "engines": {
       "node": "10.19.0"
